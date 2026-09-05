@@ -1,0 +1,14 @@
+jupyter
+pandas
+numpy
+scikit-learn
+scipy
+matplotlib
+seaborn
+Pillow
+streamlit
+python-dotenv
+google-generativeai
+openai
+kagglehub
+pyarrow
